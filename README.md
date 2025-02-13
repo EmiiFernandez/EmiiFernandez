@@ -56,4 +56,4 @@ Estoy abierta a colaborar con equipos en proyectos innovadores y desafiantes. Me
 - 📅 **Última Actualización:** 2025-02-12 22:48:28 (UTC)
 
 ¡Gracias por visitar mi perfil! 😊
-``` ▋
+``` 
