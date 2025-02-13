@@ -8,7 +8,7 @@ Soy desarrolladora backend con formación en Backend. Me encuentro en constante 
 
 Mi objetivo es consolidarme en el sector IT y contribuir con soluciones innovadoras en entornos dinámicos y colaborativos. Actualmente, me encuentro en búsqueda de nuevas oportunidades para seguir creciendo profesionalmente en el mundo del desarrollo de software.
 
-- 💻 **Stack principal:** Java, Spring Boot, MySQL, MongoDB, React, Vue.js, Docker, Linux
+- 💻 **Stack principal:** Java, Spring Boot, MySQL, React, Docker, Linux
 - 🚀 **Experiencia con:** Consumo de APIs, virtualización, Git, GitLab, Postman, Swagger, pruebas unitarias e integración
 - 🌱 **Actualmente aprendiendo:** Python
 
