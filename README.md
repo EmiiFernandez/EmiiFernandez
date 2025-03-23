@@ -44,8 +44,8 @@ Plataforma de reservas de instrumentos musicales con enfoque ágil.
 
 ## 🚀 Proyectos Destacados
 
-- [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/nativo) - Plataforma financiera con microcréditos para comunidades rurales.
-- [**Drop The Bass**](https://github.com/EmiiFernandez/dropthebass) - Aplicación de reservas de instrumentos musicales.
+- [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/i003-nativo-bank) - Plataforma financiera con microcréditos para comunidades rurales.
+- [**Drop The Bass**](https://github.com/EmiiFernandez/dtb-dh) - Aplicación de reservas de instrumentos musicales.
 
 ## 🤝 Contribuciones y Colaboraciones
 
