@@ -10,7 +10,7 @@ Mi objetivo es consolidarme en el sector IT y contribuir con soluciones innovado
 
 - 💻 **Stack principal:** Java, Spring Boot, MySQL, React, Docker, Linux
 - 🚀 **Experiencia con:** Consumo de APIs, virtualización, Git, GitLab, Postman, Swagger, pruebas unitarias e integración
-- 🌱 **Actualmente aprendiendo:** Python
+- 🌱 **Actualmente aprendiendo:** Ciencia de Datos
 
 ## 💼 Experiencia
 
