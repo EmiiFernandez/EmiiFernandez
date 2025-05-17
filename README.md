@@ -37,7 +37,7 @@ Plataforma web para reservas de instrumentos musicales.
 ## 🧠 Formación Académica
 
 * **Licenciatura en Ciencia de Datos** *(En curso)*
-  Universidad Nacional de Hurlingham (UNAHUR)
+  Universidad CAECE
   Incluye materias de programación, bases de datos, estadística, álgebra, sistemas operativos y visualización de datos.
 
 ## 📊 Estadísticas de GitHub
@@ -52,7 +52,6 @@ Plataforma web para reservas de instrumentos musicales.
 
 * [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/i003-nativo-bank) – Plataforma de microcréditos orientada a comunidades rurales.
 * [**Drop The Bass**](https://github.com/EmiiFernandez/dtb-dh) – Aplicación de reservas de instrumentos musicales.
-* *(En desarrollo)* Proyectos de análisis exploratorio de datos con Python y Jupyter Notebooks
 
 ## 🔗 Conectemos
 
