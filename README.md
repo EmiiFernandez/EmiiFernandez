@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-Soy desarrolladora backend con formación técnica y base sólida en Java y Spring Boot. Actualmente estoy ampliando mi perfil hacia el análisis y la ciencia de datos, integrando conocimientos de programación, estadística y gestión de datos.
+Soy desarrolladora backend con formación técnica y base en Java y Spring Boot. Actualmente estoy ampliando mi perfil hacia el análisis y la ciencia de datos, integrando conocimientos de programación, estadística y gestión de datos.
 
 Me interesa desarrollar soluciones tecnológicas que sean eficientes, escalables y orientadas a resultados concretos. Valoro el trabajo en equipo, los entornos colaborativos y el aprendizaje continuo.
 
