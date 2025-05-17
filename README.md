@@ -58,7 +58,6 @@ Plataforma web para reservas de instrumentos musicales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/emiliafernandez)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EmiiFernandez)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/h6Hby66U)
 
 ## 🤝 Intereses y Colaboraciones
 
