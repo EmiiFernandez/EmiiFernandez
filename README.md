@@ -37,8 +37,8 @@ Plataforma web para reservas de instrumentos musicales.
 ## 🧠 Formación Académica
 
 * **Licenciatura en Ciencia de Datos** *(En curso)*
-  Universidad CAECE
-  Incluye materias de programación, bases de datos, estadística, álgebra, sistemas operativos y visualización de datos.
+    Universidad CAECE
+    Incluye materias de programación, bases de datos, estadística, álgebra, sistemas operativos y visualización de datos.
 
 ## 📊 Estadísticas de GitHub
 
