@@ -4,15 +4,16 @@
 
 ## Sobre Mí
 
-Soy desarrolladora backend con base en Java y Spring Boot. Actualmente estoy ampliando mi perfil hacia la ciencia de datos.
+Soy **estudiante de Licenciatura en Ciencia de Datos**  con base como **desarrolladora backend en Java y Spring Boot**. Actualmente, estoy expandiendo mis conocimientos para fusionar mi experiencia en desarrollo con el **análisis y la manipulación de datos**
 
-Me interesa participar en proyectos donde pueda aplicar lo que voy aprendiendo, colaborar con otras personas y seguir creciendo de forma continua. Disfruto resolver problemas concretos, organizar datos y trabajar con herramientas que me permiten entender mejor la información.
+Mi objetivo es participar en proyectos donde pueda aplicar lo que voy aprendiendo en Ciencia de Datos y desarrollo, colaborar con otras personas, y seguir creciendo de forma continua. Disfruto resolver problemas concretos, **organizar y transformar datos**, y trabajar con herramientas que me permiten entender mejor la información para la toma de decisiones.
 
 🎯 Busco seguir formándome y sumar experiencia combinando desarrollo backend con análisis de datos, para contribuir en entornos donde la tecnología tenga un impacto real.
 
-* 💻 **Stack actual:** Java, Spring Boot, MySQL, React, Docker, Linux  
-* 🔧 **Herramientas y prácticas:** Git, GitLab, Swagger, Postman, APIs REST, testing (unitario e integración)  
-* 📚 **Actualmente aprendiendo:** Python para análisis de datos, estadística aplicada, fundamentos de estructuras de datos
+* 💻 **Stack principal:** Java, Spring Boot, MySQL, PostgreSQL, React, Docker, Linux, APIs REST 
+* 🔧 **Herramientas y prácticas:** Git, GitHub, Swagger, Postman, testing (unitario e integración) 
+* 📊 **Análisis y Visualización:** SQL, Power BI, Locker Studio, Excel 
+* 📚 **Actualmente aprendiendo:** Python para análisis de datos, estadística aplicada, bases de datos no relacionales (NoSQL). 
 
 ---
 
@@ -50,10 +51,14 @@ Plataforma web para reservas de instrumentos musicales.
 
 ## 🧠 Formación Académica
 
-**Licenciatura en Ciencia de Datos** *(En curso)*  
-Universidad CAECE  
+**Licenciatura en Ciencia de Datos** *(En curso - 2025-Actualidad)* 
+Universidad CAECE [cite: 54]
 
-Incluye materias de programación, bases de datos, estadística, álgebra, sistemas operativos y visualización de datos.
+**Back End Specialist** *(2023-2024)* 
+Digital House 
+
+**Professional Developer** *(2022-2023)* 
+Digital House 
 
 ---
 
@@ -85,4 +90,4 @@ Incluye materias de programación, bases de datos, estadística, álgebra, siste
 
 ## 🤝 Intereses y Colaboraciones
 
-Estoy abierta a participar en proyectos relacionados con desarrollo backend, procesamiento de datos o iniciativas con enfoque social. Me interesa especialmente aprender junto a otros, compartir ideas y aplicar lo que voy incorporando en contextos reales.
+Estoy abierta a participar en proyectos relacionados con **Ciencia de Datos, desarrollo backend, análisis de datos, procesamiento de datos o iniciativas con enfoque social**. Me interesa especialmente aprender junto a otros, compartir ideas y aplicar lo que voy incorporando en contextos reales, buscando siempre la **resolución de problemas concretos y la comprensión de la información**.
