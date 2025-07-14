@@ -51,8 +51,8 @@ Plataforma web para reservas de instrumentos musicales.
 
 ## 🧠 Formación Académica
 
-**Licenciatura en Ciencia de Datos** *(En curso - 2025-Actualidad)* 
-Universidad CAECE [cite: 54]
+**Licenciatura en Ciencia de Datos** *(2025 - En curso)* 
+Universidad CAECE
 
 **Back End Specialist** *(2023-2024)* 
 Digital House 
