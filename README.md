@@ -80,10 +80,10 @@ Digital House
 ## 🚀 Proyectos Destacados
 
 * [**Análisis Exploratorio y KPIs de Ventas – Proyecto Final de Data Analytics**](https://github.com/EmiiFernandez/proyecto_final_analisis_datos_emilia_fernandez) - Proyecto en Python (Pandas, NumPy, Matplotlib, Seaborn), incluye limpieza, EDA, métricas de rendimiento, gráficos, análisis de campañas de marketing y generación de KPIs clave para la toma de decisiones.
-* [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/i003-nativo-bank) – Plataforma de microcréditos orientada a comunidades rurales  
-* [**Drop The Bass**](https://github.com/EmiiFernandez/dtb-dh) – Aplicación de reservas de instrumentos musicales
 * [**Análisis de Datos con Power BI: Caso Northwind**](https://github.com/EmiiFernandez/Data-Analytics) – Proyecto de análisis, modelado y visualización de datos con Power BI, aplicando Power Query y DAX para la toma de decisiones estratégicas en productos digitales, basado en el dataset de Northwind
 * [**Dashboard de E-commerce en Locker Studio**](https://github.com/EmiiFernandez/proyecto-bi-ecommerce-lockerstudio) – Análisis y visualización de datos de ventas para un e-commerce, con evaluación de calidad de datos e insights clave sobre rendimiento y comportamiento del cliente.
+* [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/i003-nativo-bank) – Plataforma de microcréditos orientada a comunidades rurales  
+* [**Drop The Bass**](https://github.com/EmiiFernandez/dtb-dh) – Aplicación de reservas de instrumentos musicales
 
 ---
 
