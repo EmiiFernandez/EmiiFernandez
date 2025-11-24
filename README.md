@@ -11,8 +11,8 @@ Mi objetivo es participar en proyectos donde pueda aplicar lo que voy aprendiend
 🎯 Busco seguir formándome y sumar experiencia combinando desarrollo backend con análisis de datos, para contribuir en entornos donde la tecnología tenga un impacto real.
 
 * 💻 **Stack principal:** Java, Spring Boot, MySQL, PostgreSQL, React, Docker, Linux, APIs REST 
-* 🔧 **Herramientas y prácticas:** Git, GitHub, Swagger, Postman, testing (unitario e integración) 
-* 📊 **Análisis y Visualización:** SQL, Power BI, Locker Studio, Excel 
+* 🔧 **Herramientas y prácticas:** Git, GitHub, Swagger, Postman, testing (unitario e integración), Colab
+* 📊 **Análisis y Visualización:** SQL, Power BI, Locker Studio, Excel, Pandas, Numpy, Matplotlib
 * 📚 **Actualmente aprendiendo:** Python para análisis de datos, estadística aplicada, bases de datos no relacionales (NoSQL). 
 
 ---
@@ -54,6 +54,9 @@ Plataforma web para reservas de instrumentos musicales.
 **Licenciatura en Ciencia de Datos** *(2025 - En curso)* 
 Universidad CAECE
 
+**Data Analytics con Python** *(2025)*
+Agencia de habilidades para el futuro - Talento Tech
+
 **Back End Specialist** *(2023-2024)* 
 Digital House 
 
@@ -76,6 +79,7 @@ Digital House
 
 ## 🚀 Proyectos Destacados
 
+* [**Análisis Exploratorio y KPIs de Ventas – Proyecto Final de Data Analytics**](https://github.com/EmiiFernandez/proyecto_final_analisis_datos_emilia_fernandez) - Proyecto en Python (Pandas, NumPy, Matplotlib, Seaborn), incluye limpieza, EDA, métricas de rendimiento, gráficos, análisis de campañas de marketing y generación de KPIs clave para la toma de decisiones.
 * [**Nativo - Banco Rural**](https://github.com/EmiiFernandez/i003-nativo-bank) – Plataforma de microcréditos orientada a comunidades rurales  
 * [**Drop The Bass**](https://github.com/EmiiFernandez/dtb-dh) – Aplicación de reservas de instrumentos musicales
 * [**Análisis de Datos con Power BI: Caso Northwind**](https://github.com/EmiiFernandez/Data-Analytics) – Proyecto de análisis, modelado y visualización de datos con Power BI, aplicando Power Query y DAX para la toma de decisiones estratégicas en productos digitales, basado en el dataset de Northwind
