@@ -12,7 +12,7 @@ Mi objetivo es participar en proyectos donde pueda aplicar lo que voy aprendiend
 
 * 💻 **Stack principal:** Java, Spring Boot, MySQL, PostgreSQL, React, Docker, Linux, APIs REST 
 * 🔧 **Herramientas y prácticas:** Git, GitHub, Swagger, Postman, testing (unitario e integración), Colab
-* 📊 **Análisis y Visualización:** SQL, Power BI, Locker Studio, Excel, Pandas, Numpy, Matplotlib
+* 📊 **Análisis y Visualización:** SQL, Power BI, Looker Studio, Excel, Pandas, Numpy, Matplotlib
 * 📚 **Actualmente aprendiendo:** Python para análisis de datos, estadística aplicada, bases de datos no relacionales (NoSQL). 
 
 ---
