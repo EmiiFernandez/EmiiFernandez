@@ -47,6 +47,6 @@
 
 ---
 
-## 🧠 Soft Skills & Valor Agregado
+## 🧠 Soft Skills 
 Mi formación previa en salud me enseñó que detrás de cada registro hay una realidad que exige cuidado y compromiso. Hoy aplico esa misma atención al detalle en el análisis de datos y el backend, enfocándome en procesos ordenados y en la toma de decisiones basada en datos confiables.
 
