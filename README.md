@@ -15,8 +15,8 @@
 | :--- | :--- |
 | **Backend & Core** | Java (Spring Boot), Python, APIs REST, Spring Security |
 | **Datos & Análisis** | SQL (PostgreSQL, MySQL), Pandas, NumPy, Matplotlib |
-| **Visualización** | Power BI, Looker Studio, Excel Avanzado |
-| **Infraestructura** | Docker, AWS (Nociones), Linux, Git/GitHub |
+| **Visualización** | Power BI, Looker Studio, Excel |
+| **Infraestructura** | Docker, AWS, Linux, Git/GitHub |
 
 ---
 
