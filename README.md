@@ -33,7 +33,7 @@
 - **Logro:** Implementación de seguridad con JWT y arquitectura escalable para transacciones rurales.
 - **Herramientas:** Java, Spring Boot, PostgreSQL, Swagger, Postman, JUnit.
 
-### 📊 [Dashboard de E-commerce](https://github.com/EmiiFernandez/proyecto-bi-ecommerce-lookerstudio)
+### 📊 [Dashboard de E-commerce](https://github.com/EmiiFernandez/proyecto-bi-ecommerce-lockerstudio)
 *Visualización estratégica de métricas críticas de negocio.*
 - **Logro:** Transformación de datos crudos en un panel de control dinámico para la toma de decisiones en tiempo real.
 - **Herramientas:** Looker Studio, SQL, Excel.
