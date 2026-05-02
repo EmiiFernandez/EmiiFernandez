@@ -1,5 +1,5 @@
 # 👋 Emilia Fernández
-**Backend Developer** con experiencia en Java y Spring Boot, actualmente cursando la **Licenciatura en Ciencia de Datos (CAECE)**. Mi camino técnico empezó en el desarrollo de aplicaciones y hoy estoy sumando herramientas de análisis de datos y estadística para ampliar mi perfil.
+**Analista de Datos** en formación con background en desarrollo backend (Java/Spring Boot) y experiencia práctica analizando datos clínicos en el sector salud. Cursando Licenciatura en Ciencia de Datos (CAECE).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emiliafernandez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
