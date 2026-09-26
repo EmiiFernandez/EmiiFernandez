@@ -1,57 +1,36 @@
-# 👋 Emilia Fernández
-**Analista de Datos** en formación con experiencia en R, Python y herramientas de visualización, y background en análisis de datos clínicos en el sector salud. Cursando Licenciatura en Ciencia de Datos (CAECE).
+# Emilia Fernández
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/emiliafernandez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:e.fernandezmurgia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EmiiFernandez&color=blue&style=for-the-badge&label=VISTAS" />
-</p>
+Analista de datos jr. Hace 13 años trabajo en oftalmología como Óptica Técnica, en coordinación quirúrgica y datos clínicos: cirugías, cálculo de lentes intraoculares y trazabilidad. Estudio la Licenciatura en Ciencia de Datos en la Universidad CAECE y busco mi primer puesto en análisis, ciencia o ingeniería de datos.
 
----
+Antes trabajé en desarrollo backend con Java, Spring Boot y PostgreSQL, así que me muevo con comodidad entre bases de datos, APIs y código que tiene que funcionar de punta a punta.
 
-## 💻 Stack Técnico
+Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/emiliafernandez) · [e.fernandezmurgia@gmail.com](mailto:e.fernandezmurgia@gmail.com)
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend & Core** | Java (Spring Boot), Python, APIs REST, Spring Security |
-| **Datos & Análisis** | SQL (PostgreSQL, MySQL), Pandas, NumPy, Matplotlib, R, ggplot2 |
-| **Visualización** | Power BI, Looker Studio, Excel |
-| **Infraestructura** | Docker, AWS, Linux, Git/GitHub |
+## Qué hago con datos
 
----
+- Reviso la calidad de los datos antes de analizarlos y verifico que cada número se pueda reproducir desde el origen.
+- Hago análisis exploratorio y modelos: regresión en R, clasificación y clustering en Python.
+- Comunico resultados en dashboards (Looker Studio, Power BI) y reportes reproducibles (R Markdown, Jupyter).
 
-## 🚀 Proyectos Destacados
-*Proyectos seleccionados que demuestran mi capacidad de resolver problemas de negocio.*
+## Proyectos
 
-### 🏥 [Medical Cost Analysis - EDA & Modelo Predictivo](https://github.com/EmiiFernandez/medical-cost-eda)
-*Análisis exploratorio y modelado predictivo de costos médicos en EE.UU.*
-- **Logro:** Identifiqué que el tabaquismo explica el 69% de los costos médicos y que el IMC actúa como amplificador — no como factor independiente. Modelo final con R² = 0.88.
-- **Herramientas:** R, ggplot2, dplyr, corrplot, regresión lineal, R Markdown.
+| Proyecto | Qué hice | Herramientas |
+|---|---|---|
+| [Costos médicos](https://github.com/EmiiFernandez/medical-cost-eda) | EDA y cuatro modelos de regresión sobre 364 asegurados. El modelo final explica el 88 % de la varianza de los costos (R² = 0,88) y muestra que el IMC solo pesa en fumadores. | R, ggplot2, R Markdown |
+| [Scoring de riesgo crediticio](https://github.com/EmiiFernandez/data_science_ypf_proyecto) | Proyecto en equipo sobre 150.000 clientes: modelo de clasificación con ROC-AUC de 0,867 y segmentación con KMeans. | Python, scikit-learn |
+| [Ventas de un retail](https://github.com/EmiiFernandez/analisis-ventas-superstore) | Limpieza, EDA y SQL sobre 9.800 ventas. El 20 % de los productos genera el 77 % de las ventas y octubre a diciembre concentran el 38,5 %. | Python, pandas, SQL, Looker Studio |
+| [BI para un e-commerce](https://github.com/EmiiFernandez/proyecto-bi-ecommerce-looker-studio) | Dashboard en Looker Studio que después audité con Python: encontré y corregí cuatro indicadores mal calculados. | Looker Studio, Google Sheets, pandas |
+| [Nativo](https://github.com/EmiiFernandez/i003-nativo-bank) | Backend en equipo de una app de pagos y microcréditos para comunidades rurales. | Java, Spring Boot, PostgreSQL, JWT |
 
-### 🛒 [Análisis de Ventas & KPIs - Superstore](https://github.com/EmiiFernandez/analisis-ventas-superstore)
-*Análisis comercial  utilizando el dataset de retail.*
-- **Logro:** Identificación de patrones de rentabilidad y optimización de stock regional.
-- **Herramientas:** Python, Pandas, Numpy, Seaborn, sqlite3, Análisis Exploratorio de Datos (EDA), Looker Studio, Google Colab.
+## Stack
 
-### 📊 [Dashboard de E-commerce](https://github.com/EmiiFernandez/proyecto-bi-ecommerce-lockerstudio)
-*Visualización estratégica de métricas críticas de negocio.*
-- **Logro:** Transformación de datos crudos en un panel de control dinámico para la toma de decisiones en tiempo real.
-- **Herramientas:** Looker Studio, SQL, Excel.
+- **Datos:** SQL (PostgreSQL, MySQL, SQLite) · Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn) · R (tidyverse, ggplot2, R Markdown)
+- **Visualización:** Looker Studio · Power BI · Excel · Google Sheets
+- **Backend y herramientas:** Java · Spring Boot · APIs REST · Docker · Git
 
-### 💳 [Nativo - Plataforma de Microcréditos](https://github.com/EmiiFernandez/i003-nativo-bank)
-*Desarrollo backend para una solución financiera de impacto social.*
-- **Logro:** Implementación de seguridad con JWT y arquitectura escalable para transacciones rurales.
-- **Herramientas:** Java, Spring Boot, PostgreSQL, Swagger, Postman, JUnit.
+## Formación
 
----
-
-## 🎓 Formación y Certificaciones
-- **Licenciatura en Ciencia de Datos** | Universidad CAECE (En curso)
-- **Data Analytics con Python** | Talento Tech (2025)
-- **Desarrollador Backend Specialist** | Digital House (2024)
-
----
-
-## 🧠 Soft Skills 
-Mi formación previa en salud me enseñó que detrás de cada registro hay una realidad que exige cuidado y compromiso. Hoy aplico esa misma atención al detalle en el análisis de datos y el backend, enfocándome en procesos ordenados y en la toma de decisiones basada en datos confiables.
-
+- Licenciatura en Ciencia de Datos, Universidad CAECE (en curso)
+- Data Science, EnergIA Digital (en curso)
+- Data Analytics con Python, Talento Tech (2025)
+- Desarrollador Backend Specialist, Digital House (2024)
