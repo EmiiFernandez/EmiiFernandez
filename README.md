@@ -4,7 +4,7 @@ Analista de datos jr. Hace 13 años trabajo en oftalmología como Óptica Técni
 
 Antes trabajé en desarrollo backend con Java, Spring Boot y PostgreSQL, así que me muevo con comodidad entre bases de datos, APIs y código que tiene que funcionar de punta a punta.
 
-Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/emiliafernandez) · [e.fernandezmurgia@gmail.com](mailto:e.fernandezmurgia@gmail.com)
+Plottier, Neuquén (Argentina) · disponible para trabajo remoto · [LinkedIn](https://www.linkedin.com/in/emiliafernandez) · [e.fernandezmurgia@gmail.com](mailto:e.fernandezmurgia@gmail.com)
 
 ## Qué hago con datos
 
